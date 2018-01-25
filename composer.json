@@ -1,0 +1,8 @@
+{
+    "name": "LalaZaza/Juju",
+    "autoload": {
+        "classmap": [ "/" ]
+    }
+    
+
+}
